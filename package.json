@@ -1,0 +1,13 @@
+{
+  "name": "can-bayraktar-bbs",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "/index.html",
+  "scripts": {
+    "start": "echo start"
+  },
+  "dependencies": {
+    "create-react-app": "4.0.1"
+  }
+}
